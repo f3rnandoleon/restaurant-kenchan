@@ -14,7 +14,7 @@
             "price": "45",
             "time": "10-15min",
             "ingredientes": [
-                "Arroz blanco",
+                "Fideo blanco",
                 "Carne Res",
                 "Aceite Vegetal",
                 "Vaina",
@@ -33,13 +33,13 @@
             "price": "50",
             "time": "20-25min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
-                "Pimento rojo",
-                "Salsa soja"
+                "Arroz granizado",
+                "Carne sushi",
+                "Repollo",
+                "Locoto",
+                " cebolla larga",
+                "Pimento ",
+                "Fideo"
             ]
         },
         {
@@ -52,11 +52,11 @@
             "price": "50",
             "time": "12-15min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
+                "cebolla ",
+                "Salsa soja",
+                "Resoya",
+                "Comino",
+                "Lechuga mediana",
                 "Pimento rojo",
                 "Salsa soja"
             ]
@@ -71,12 +71,12 @@
             "price": "59",
             "time": "8-15min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
-                "Pimento rojo",
+                "Vinagre de arroz",
+                "Alga Nori",
+                "Shoyo",
+                "Wasabi",
+                "Salmon",
+                "Queso",
                 "Salsa soja"
             ]
         },
@@ -90,11 +90,11 @@
             "price": "31",
             "time": "15-18min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
+                "Huevo de gallina",
+                "tamagoyaki",
+                "shiso",
+                "Salsa soja",
+                "Hueva de pescado",
                 "Pimento rojo",
                 "Salsa soja"
             ]
@@ -110,11 +110,11 @@
             "time": "10-20min",
             "ingredientes": [
                 "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
-                "Pimento rojo",
+                "Sake",
+                "Panko",
+                "Mayonesa japonesa",
+                "Semillas de sesamo",
+                "Miso",
                 "Salsa soja"
             ]
         },
@@ -128,12 +128,12 @@
             "price": "75",
             "time": "20-30min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
-                "Pimento rojo",
+                "Carne de ternera o pollo",
+                "Zanahoria",
+                "Aceite Oliva",
+                "Sake",
+                "Puerro troceada",
+                "Huevo",
                 "Salsa soja"
             ]
         },
@@ -147,12 +147,12 @@
             "price": "66",
             "time": "18-25min",
             "ingredientes": [
-                "Arroz blanco",
-                "Carne Res",
-                "Aceite Vegetal",
-                "Vaina",
-                "Tallos de cebolla china o cebolla larga",
-                "Pimento rojo",
+                "Cebolla china",
+                "Alga Nori picada",
+                "Semillas de sesamo",
+                "Sake",
+                "Miel",
+                "Mirin",
                 "Salsa soja"
             ]
         },
@@ -168,6 +168,25 @@
             "ingredientes": [
                 "Arroz blanco",
                 "Carne Res",
+                "Alga de Kombu",
+                "Vinagre de arroz",
+                "Jengibre encurtido",
+                "Aguacate",
+                "Pasta wasabi"
+            ]
+        },
+        {
+            "id": 10,
+            "numero": "src/assets/numeros/10.png",
+            "name": "YAKITORI  焼き⿃",
+            "description": "Brochetas de pierna de pollo, Acompaña: Papa con mantequilla. ",
+            "image": "src/assets/menu/10.png",
+            "reseña": "",
+            "price": "30",
+            "time": "5-9min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
                 "Aceite Vegetal",
                 "Vaina",
                 "Tallos de cebolla china o cebolla larga",
@@ -175,7 +194,6 @@
                 "Salsa soja"
             ]
         }
-       
         
     ]
 }
