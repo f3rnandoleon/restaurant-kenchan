@@ -9,6 +9,9 @@ function Inicio() {
             <button>MAS INFORMACION</button>
         </div>
         <div> A B C </div>
+        <p>UBICACION DE RESTAURANTE KENCHAN</p>
+        <div>REDES SOCIALES</div>
+        <div>FACEBOOK</div>
     </main>
   )
 }
