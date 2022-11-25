@@ -8,6 +8,7 @@ function Inicio() {
             <button>MENU</button>
             <button>MAS INFORMACION</button>
         </div>
+        <div> A B C </div>
     </main>
   )
 }
